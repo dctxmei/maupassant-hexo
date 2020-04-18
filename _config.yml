@@ -65,8 +65,8 @@ donate:
   btc_key: ## Bitcoin key, e.g. 1KuK5eK2BLsqpsFVXXSBG5wbSAwZVadt6L
   paypal_url: ## Paypal URL, e.g. https://www.paypal.me/tufu9441
 post_copyright:
-  enable: false ## If you want to display the copyright info after each post, please set the value to true and fill the following items on your need.
-  author: ## Your author name, e.g. tufu9441
+  enable: true ## If you want to display the copyright info after each post, please set the value to true and fill the following items on your need.
+  author: Dct Mei ## Your author name, e.g. tufu9441
   copyright_text: ## Your copyright text, e.g. The author owns the copyright, please indicate the source reproduced.
 love: false ## If you want the love to appear when you click anywhere, set the value to true.
 plantuml: ## Using PlantUML to generate UML diagram, must install hexo-filter-plantuml (https://github.com/miao1007/hexo-filter-plantuml).
@@ -94,26 +94,22 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - category
   - tag
   - recent_posts
-  - recent_comments
+  #- recent_comments
   - links
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: 编程随想的博客
+    url: https://program-think.blogspot.com/
 
 timeline:
   - num: 1
-    word: 2014/06/12-Start
+    word: 2017.3.3 - 部落格正式建立
   - num: 2
-    word: 2014/11/29-XXX
+    word: 2018.3.3 - 部落格一週年／哀悼「比利・海靈頓」，其因車禍傷重不治
   - num: 3
-    word: 2015/02/18-DDD
+    word: 2019.3.3 - 部落格二週年
   - num: 4
-    word: More
+    word: 2020.3.3 - 部落格三週年
 
 # Static files
 js: js
