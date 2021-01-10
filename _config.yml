@@ -97,7 +97,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 编程随想的博客
+  - title: 編程隨想的博客
     url: https://program-think.blogspot.com/
 
 timeline:
@@ -108,7 +108,7 @@ timeline:
   - num: 3
     word: 2019.03.03 - 部落格二週年
   - num: 4
-    word: 2020.03.03 - 部落格三週年／哀悼，為所有不幸的人
+    word: 2020.03.03 - 部落格三週年／哀悼，爲所有不幸的人
 
 # Static files
 js: js
